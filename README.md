@@ -37,12 +37,3 @@ Através do projeto foi possível aprender um pouco sobre integração de Java S
     <img src="https://github.com/VMansolelli/Projeto-Alugames-Alura/assets/138635441/b5fff654-c5a3-406e-908b-fbe963644f3e" width="50px">
 </h1>
 </div>
-
-
-
-
-# Implementações
-Adicionado funcionalidade de correção de erro e melhoramento na apresentação dos resultados
-
-
-
